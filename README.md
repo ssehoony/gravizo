@@ -22,3 +22,13 @@ deactivate A;
 @enduml
 mygraph1
 </details>
+
+![Alt text](https://g.gravizo.com/source/mygraph2?https%3A%2F%2Fraw.githubusercontent.com%2Fssehoony%2Fgravizo%2Fmaster%2FREADME.md)
+<details> 
+<summary></summary>
+mygraph2
+digraph {
+  A -> B
+}
+mygraph2
+</details>
