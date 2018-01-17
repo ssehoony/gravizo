@@ -1,4 +1,4 @@
-![Alt text](https://g.gravizo.com/source/mygraph1?https%3A%2F%2Fgithub.com%2Fssehoony%2Fgravizo%2Fissues%2F1)
+![Alt text](https://g.gravizo.com/source/mygraph1?https%3A%2F%2Fgithub.com%2Fssehoony%2Fgravizo%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
 mygraph1
