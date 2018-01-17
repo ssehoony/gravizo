@@ -27,8 +27,8 @@ mygraph1
 <details> 
 <summary></summary>
 mygraph2
-digraph {
-  A -> B
-}
+  digraph {
+    A -> B
+  }
 mygraph2
 </details>
